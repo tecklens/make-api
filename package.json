@@ -17,7 +17,6 @@
     "url": "https://github.com/tecklens/make-api.git"
   },
   "scripts": {
-    "prepare": "npm run build",
     "dev": "vite",
     "build": "tsc && vite build && npm run build:styles",
     "build:styles": "postcss ./src/index.css -o ./dist/style.css",

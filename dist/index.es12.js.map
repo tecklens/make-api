@@ -1,0 +1,1 @@
+{"version":3,"file":"index.es12.js","sources":["../src/constants/ListMethod.ts"],"sourcesContent":["export const ListHeaderCommon = [\n  'post',\n  'get',\n  'patch',\n  'put',\n  'head',\n  'options',\n]"],"names":["ListHeaderCommon"],"mappings":"AAAO,MAAMA,IAAmB;AAAA,EAC9B;AAAA,EACA;AAAA,EACA;AAAA,EACA;AAAA,EACA;AAAA,EACA;AACF;"}

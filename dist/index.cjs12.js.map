@@ -1,0 +1,1 @@
+{"version":3,"file":"index.cjs12.js","sources":["../src/constants/ListMethod.ts"],"sourcesContent":["export const ListHeaderCommon = [\n  'post',\n  'get',\n  'patch',\n  'put',\n  'head',\n  'options',\n]"],"names":["ListHeaderCommon"],"mappings":"gFAAO,MAAMA,EAAmB,CAC9B,OACA,MACA,QACA,MACA,OACA,SACF"}
