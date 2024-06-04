@@ -13,7 +13,7 @@ import {Button} from "./Button";
 import {ListHeaderCommon} from "../constants/ListMethod";
 import {defaultHeader} from "../constants";
 import {Headers} from "./Headers";
-import React, {useEffect, useState} from "react";
+import {useEffect, useState} from "react";
 import axios, {AxiosResponse} from "axios";
 
 const formSchema = z.object({

@@ -1,8 +1,6 @@
 import {Input} from "./Input";
 import {useFieldArray} from "react-hook-form";
 import {Control, UseFormRegister} from "react-hook-form/dist/types/form";
-import {Button} from "./Button";
-import {CircleOffIcon} from "lucide-react";
 import {CrossCircledIcon} from "@radix-ui/react-icons";
 
 export function Params({control, register}: { control: Control<any, any>; register: UseFormRegister<any> }) {
