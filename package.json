@@ -1,6 +1,6 @@
 {
-  "name": "make-api",
-  "description": "A quick library starter for React with Tailwind CSS, Vite, TypeScript and Shadcn-ui components.",
+  "name": "@wolf/make-api",
+  "description": "A quick library starter for make api similar postman in React app",
   "private": false,
   "version": "1.0.0",
   "type": "module",
@@ -8,12 +8,13 @@
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
   "sideEffects": false,
+  "keywords": ["postman", "restapi", "react", "api", "axios", "trigger", "shadcn", "tailwindcss"],
   "files": [
     "dist"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rajeshdavidbabu/shadcn-ui-lib-starter.git"
+    "url": "https://github.com/tecklens/make-api.git"
   },
   "scripts": {
     "dev": "vite",
@@ -63,5 +64,8 @@
     "typescript": "^5.0.2",
     "vite": "^4.3.2",
     "vite-plugin-dts": "^2.3.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
